@@ -28,24 +28,14 @@
 ## 📂 教學資源 (Teaching Resources)
 本儲存庫包含完整的教學與學習資源：
 ### 📘 實作題庫 (Lab Manuals)
-*   [Vol.1: 基礎語法 (W1-W4)](Teaching_Resources/python_lab_manual_vol1.md)
-*   [Vol.2: 資料結構 (W5-W8)](Teaching_Resources/python_lab_manual_vol2.md)
-*   [Vol.3: 進階觀念 (W9-W12)](Teaching_Resources/python_lab_manual_vol3.md)
-*   [Vol.4: 專案開發 (W13-W16)](Teaching_Resources/python_lab_manual_vol4.md)
-### 📕 解答手冊 (Solution Manuals)
-*包含完整程式碼與 5W1H 教學分析，僅供講師參考。*
-*   [Vol.1 Solutions](Teaching_Resources/python_solution_manual_vol1.md)
-*   [Vol.2 Solutions](Teaching_Resources/python_solution_manual_vol2.md)
-*   [Vol.3 Solutions](Teaching_Resources/python_solution_manual_vol3.md)
-*   [Vol.4 Solutions](Teaching_Resources/python_solution_manual_vol4.md)
+*   [Vol.1: 基礎語法 (W1-W4)](python_lab_manual_vol1.md)
+*   [Vol.2: 資料結構 (W5-W8)](python_lab_manual_vol2.md)
+*   [Vol.3: 進階觀念 (W9-W12)](python_lab_manual_vol3.md)
+*   [Vol.4: 專案開發 (W13-W16)](ython_lab_manual_vol4.md)
+
 ---
 ## 🚀 快速開始 (Getting Started)
-1.  **Clone 此專案**:
-    ```bash
-    git clone https://github.com/your-username/python-snake-course.git
-    ```
-2.  **打開課程大綱**: 閱讀 [Course Curriculum](python_course_curriculum.md) 了解詳細進度。
-3.  **開始練習**: 進入 [Google Colab](https://colab.research.google.com/)，複製 Lab Manual 中的題目開始 Coding！
+**開始練習**: 進入 [Google Colab](https://colab.research.google.com/)，複製 Lab Manual 中的題目開始 Coding！
 ---
 ## 🐍 最終專案預覽 (Final Project)
 在第 16 週，你將能夠獨立完成一個具備以下功能的遊戲：
@@ -58,5 +48,5 @@
 ## 📝 版權資訊 (License)
 本課程教材採用 [MIT License](LICENSE) 開源授權，歡迎教育單位自由使用與修改。
 ---
-*Created by [Your Name/Org]*
+*Created by Horace & iGS Edu Team, 2026*
 
