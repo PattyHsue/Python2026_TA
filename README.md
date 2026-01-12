@@ -1,6 +1,6 @@
 # 🐍 Python 程式設計入門：打造你的貪食蛇遊戲
 # Programming for Information Management: Zero to Hero
-![Course Hero Infographic](course_hero_infographic.png)
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Google%20Colab-orange?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
