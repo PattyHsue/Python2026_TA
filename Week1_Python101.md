@@ -27,7 +27,7 @@
 
 * **Repo 名稱**: Python2026
 * **README.md**: 建立完成，用於描述專案目標。
-* **學習連結**: [我的 GitHub Repo]((https://github.com/Grace-TA/Python2026/new/main)))
+* **學習連結**: https://github.com/Grace-TA/Python2026/new/main
 
 ---
 
